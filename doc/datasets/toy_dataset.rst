@@ -9,8 +9,8 @@ Toy datasets
 
 .. currentmodule:: sklearn.datasets
 
-scikit-learn comes with a few small standard datasets that do not require to
-download any file from some external website.
+scikit-learn comes pre-loaded with a few small, well-known datasets which allows you to
+experiment without downloading any external files.
 
 They can be loaded using the following functions:
 
